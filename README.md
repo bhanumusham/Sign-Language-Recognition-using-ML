@@ -17,8 +17,6 @@ This project leverages **MediaPipe**, **OpenCV**, and a **Multilayer Perceptron 
 | ------------------------------------ | -------------------------- |
 | ![I Love You](https://github.com/bhanumusham/Sign-Language-Recognition-using-ML/blob/f6116ad990d6a50eb841d0464b05421098d975e0/Screenshot%202024-12-16%20113350.png) | ![Hello](https://github.com/bhanumusham/Sign-Language-Recognition-using-ML/blob/b1d9ce7c12be600870b16989bb5fb1d3ddc4fe21/Screenshot%202024-12-16%20113244.png) |
 
-> *Add these screenshots to your repository in the `assets/` folder with the above filenames.*
-
 ---
 
 ## 📂 Project Structure
@@ -125,5 +123,3 @@ python scripts/realtime_recognition.py
 * [Scikit-learn](https://scikit-learn.org/)
 
 ---
-
-Would you like me to generate this as a downloadable `README.md` file with placeholder image links ready to use?
