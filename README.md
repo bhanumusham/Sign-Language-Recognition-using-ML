@@ -15,7 +15,7 @@ This project leverages **MediaPipe**, **OpenCV**, and a **Multilayer Perceptron 
 
 | "I Love You" Sign                    | "Hello" Sign               |
 | ------------------------------------ | -------------------------- |
-| ![I Love You](assets/i_love_you.png) | ![Hello](assets/hello.png) |
+| ![I Love You]() | ![Hello]([assets/hello.png](https://github.com/bhanumusham/Sign-Language-Recognition-using-ML/blob/6886c8aff360a7ee37af4b06cd6282d47adb0a8c/Screenshot%202024-12-16%20113244.png)) |
 
 > *Add these screenshots to your repository in the `assets/` folder with the above filenames.*
 
